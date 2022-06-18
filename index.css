@@ -1,0 +1,65 @@
+main {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.sedan {
+  background-color: rgb(235, 168, 68);
+  padding: 2em;
+}
+.sedan h3 {
+  font-size: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+.sedan p {
+  padding-bottom: 60px;
+  color: white;
+}
+.sedan button {
+  color: rgb(235, 168, 68);
+  padding: 0.9em;
+  border-radius: 18px;
+  border-style: none;
+}
+.SUV {
+  background-color: hsl(184, 100%, 22%);
+  padding: 2em;
+}
+.SUV h3 {
+  font-size: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+.SUV p {
+  padding-bottom: 60px;
+  color: white;
+}
+.SUV button {
+  color: hsl(184, 100%, 22%);
+  padding: 0.9em;
+  border-radius: 18px;
+  border-style: none;
+}
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  padding: 2em;
+}
+.luxury h3 {
+  font-size: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+.luxury p {
+  padding-bottom: 60px;
+  color: white;
+}
+.luxury button {
+  color: hsl(179, 100%, 13%);
+  padding: 0.9em;
+  border-radius: 18px;
+  border-style: none;
+}
